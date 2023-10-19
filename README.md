@@ -22,4 +22,4 @@ User Interaction: Users can continue to enter new text and click the "Translate"
 
 # Project Live links
 
-https://aakash416.github.io/Translator/
+https://madhurimourya15.github.io/translator/
